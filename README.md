@@ -1,6 +1,6 @@
 # 数据平台介绍
  
-# 1、数据平台总入口 
+# 1、数据平台总入口 bdp-base
 # https://github.com/wlhbdp/bdp-base
 
 1.1 base-search
@@ -65,7 +65,8 @@
     (集群维护)
 
 
-# 2、金铺数据分析 https://github.com/wlhbdp/bdp-gold
+# 2、金铺数据分析 bdp-gold
+# https://github.com/wlhbdp/bdp-gold
 
 2.1 个性化推荐系统 gold-recommender
 
@@ -89,7 +90,8 @@
         android开发埋点：https://github.com/foolchen/AndroidTracker
 
 
-# 3、店家数据分析 https://github.com/wlhbdp/bdp-store
+# 3、店家数据分析 bdp-store
+# https://github.com/wlhbdp/bdp-store
 
 3.1 智能营销推荐分析
 
@@ -113,13 +115,15 @@
 
 
 
-# 4、运维管理平台 bdp-devops https://github.com/wlhbdp/bdp-devops
+# 4、运维管理平台 bdp-devops 
+# https://github.com/wlhbdp/bdp-devops
 
 4.1 发布平台
 
 
 
-# 5、数据中台 bdp-hub https://github.com/wlhbdp/bdp-datahub
+# 5、数据中台 bdp-datahub
+# https://github.com/wlhbdp/bdp-datahub
 
 5、数据中台
 
@@ -154,7 +158,8 @@
 
 
 
-# 6 应用中台 https://github.com/wlhbdp/bdp-apphub
+# 6 应用中台 bdp-apphub
+# https://github.com/wlhbdp/bdp-apphub
 
 6.1 应用开放服务
 
@@ -179,7 +184,8 @@
     任务管理、配置管理、镜像构建（包括环境变量和参数配置）、应用日志
 
 
-# 7 知识探索 https://github.com/wlhbdp/bdp-explore
+# 7 知识探索 bdp-explore
+# https://github.com/wlhbdp/bdp-explore
 
 7.1 应用服务
 
@@ -202,7 +208,8 @@
 7.10 适配服务
 
 
-# 8 安全管理 https://github.com/wlhbdp/bdp-security
+# 8 安全管理 bdp-security
+# https://github.com/wlhbdp/bdp-security
 
 8.1 安全专家服务
 
@@ -223,7 +230,8 @@
 8.9 安全监测
 
 
-# 9、客户数据中台 https://github.com/wlhbdp/bdp-cdp
+# 9、客户数据中台 bdp-cdp
+# https://github.com/wlhbdp/bdp-cdp
  
     全面融合线下线上数据的客户数据中台
 
@@ -272,7 +280,8 @@
     人群管理
     
     
-# 10 业务中台 https://github.com/wlhbdp/bdp-businesshub
+# 10 业务中台 bdp-businesshub
+# https://github.com/wlhbdp/bdp-businesshub
 
     核心优势
     
