@@ -3,6 +3,7 @@
 描述：基于大数据、数据平台、微服务、机器学习、商城、自动化运维、DevOps、容器部署平台、数据平台采集、数据平台存储、数据平台计算、数据平台开发、数据平台应用搭建的大数据生态平台解决方案。
 
 # 0、数据平台 bdp-dataplatform
+# https://github.com/wlhbdp/bdp-dataplatform
     数据来源：
     	商城：使用SpringBoot，Java，Vue，React，Android开发多端商城，包括网站、App、微信小程序；
     	日志：使用Java开发服务端日志、客户端日志收集系统，使用DataX实现数据的导入导出系统；
@@ -252,7 +253,8 @@
      
      https://my-macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/design/%E5%BC%80%E5%8F%91%E8%AE%A1%E5%88%92v1.0.png
 
-# 1、基础平台 bdp-base 
+# 1、基础平台 bdp-base
+# https://github.com/wlhbdp/bdp-base
 1.1 base-search
     
     技术：java, db，es
