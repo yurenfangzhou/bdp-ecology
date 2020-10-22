@@ -1,6 +1,6 @@
-# 数据平台介绍
+# 数据生态平台介绍 data-ecology-platform
  
-# 1、数据平台总入口 bdp-base
+# 1、数据平台总入口 data-ecology-platform
 # https://github.com/wlhbdp/bdp-base
 
 1.1 base-search
