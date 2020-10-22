@@ -1,5 +1,5 @@
-# 数据生态平台介绍 bdp-ecology
-# https://github.com/wlhbdp/bdp-base
+# 1、数据生态平台介绍 bdp-ecology
+# https://github.com/wlhbdp/bdp-ecology
 
 1.1 base-search
     
