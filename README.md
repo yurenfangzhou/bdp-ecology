@@ -253,7 +253,7 @@
      
      https://my-macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/design/%E5%BC%80%E5%8F%91%E8%AE%A1%E5%88%92v1.0.png
 
-# 1、大数据生态解决方案基础平台 bdp-base ready
+# 1、大数据生态解决方案基础平台 bdp-base
 # https://github.com/wlhbdp/bdp-base
 1.1 base-search
     
@@ -317,7 +317,7 @@
     (集群维护)
 
 
-# 2、大数据生态解决方案金铺数据分析 bdp-gold ready
+# 2、大数据生态解决方案金铺数据分析 bdp-gold
 # https://github.com/wlhbdp/bdp-gold
 
 2.1 个性化推荐系统 gold-recommender
@@ -366,13 +366,13 @@
 3.10 店家Dashboard系统
 
 
-# 4、大数据生态解决方案运维管理平台 bdp-devops ready
+# 4、大数据生态解决方案运维管理平台 bdp-devops
 # https://github.com/wlhbdp/bdp-devops
 
 4.1 发布平台
 
 
-# 5、大数据生态解决方案数据中台 bdp-datahub not ready
+# 5、大数据生态解决方案数据中台 bdp-datahub
 # https://github.com/wlhbdp/bdp-datahub
 
 5、数据中台
@@ -406,7 +406,7 @@
 5.8 主题库服务
 
 
-# 6 大数据生态解决方案应用中台 bdp-apphub not ready
+# 6 大数据生态解决方案应用中台 bdp-apphub
 # https://github.com/wlhbdp/bdp-apphub
 
 6.1 应用开放服务
@@ -432,7 +432,7 @@
     任务管理、配置管理、镜像构建（包括环境变量和参数配置）、应用日志
 
 
-# 7 大数据生态解决方案知识探索 bdp-explore not ready
+# 7 大数据生态解决方案知识探索 bdp-explore
 # https://github.com/wlhbdp/bdp-explore
 
 7.1 应用服务
@@ -456,7 +456,7 @@
 7.10 适配服务
 
 
-# 8 大数据生态解决方案安全管理 bdp-security not ready
+# 8 大数据生态解决方案安全管理 bdp-security
 # https://github.com/wlhbdp/bdp-security
 
 8.1 安全专家服务
@@ -478,7 +478,7 @@
 8.9 安全监测
 
 
-# 9、大数据生态解决方案客户数据中台 bdp-cdp ready
+# 9、大数据生态解决方案客户数据中台 bdp-cdp
 # https://github.com/wlhbdp/bdp-cdp
  
     全面融合线下线上数据的客户数据中台
