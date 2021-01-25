@@ -2,7 +2,7 @@
 # github: https://github.com/wlhbdp/bdp-ecology
 描述：基于大数据、数据平台、微服务、机器学习、商城、自动化运维、DevOps、容器部署平台、数据平台采集、数据平台存储、数据平台计算、数据平台开发、数据平台应用搭建的大数据生态平台解决方案。
 
-# 0、数据平台 bdp-dataplatform
+# 0、大数据生态解决方案数据平台 bdp-dataplatform
 # https://github.com/wlhbdp/bdp-dataplatform
     数据来源：
     	商城：使用SpringBoot，Java，Vue，React，Android开发多端商城，包括网站、App、微信小程序；
@@ -253,7 +253,7 @@
      
      https://my-macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/design/%E5%BC%80%E5%8F%91%E8%AE%A1%E5%88%92v1.0.png
 
-# 1、基础平台 bdp-base
+# 1、大数据生态解决方案基础平台 bdp-base ready
 # https://github.com/wlhbdp/bdp-base
 1.1 base-search
     
@@ -317,7 +317,7 @@
     (集群维护)
 
 
-# 2、金铺数据分析 bdp-gold
+# 2、大数据生态解决方案金铺数据分析 bdp-gold ready
 # https://github.com/wlhbdp/bdp-gold
 
 2.1 个性化推荐系统 gold-recommender
@@ -342,7 +342,7 @@
         android开发埋点：https://github.com/foolchen/AndroidTracker
 
 
-# 3、店家数据分析 bdp-store
+# 3、大数据生态解决方案店家数据分析 bdp-store ready
 # https://github.com/wlhbdp/bdp-store
 
 3.1 智能营销推荐分析
@@ -366,15 +366,13 @@
 3.10 店家Dashboard系统
 
 
-
-# 4、运维管理平台 bdp-devops 
+# 4、大数据生态解决方案运维管理平台 bdp-devops ready
 # https://github.com/wlhbdp/bdp-devops
 
 4.1 发布平台
 
 
-
-# 5、数据中台 bdp-datahub
+# 5、大数据生态解决方案数据中台 bdp-datahub not ready
 # https://github.com/wlhbdp/bdp-datahub
 
 5、数据中台
@@ -408,9 +406,7 @@
 5.8 主题库服务
 
 
-
-
-# 6 应用中台 bdp-apphub
+# 6 大数据生态解决方案应用中台 bdp-apphub not ready
 # https://github.com/wlhbdp/bdp-apphub
 
 6.1 应用开放服务
@@ -436,7 +432,7 @@
     任务管理、配置管理、镜像构建（包括环境变量和参数配置）、应用日志
 
 
-# 7 知识探索 bdp-explore
+# 7 大数据生态解决方案知识探索 bdp-explore not ready
 # https://github.com/wlhbdp/bdp-explore
 
 7.1 应用服务
@@ -460,7 +456,7 @@
 7.10 适配服务
 
 
-# 8 安全管理 bdp-security
+# 8 大数据生态解决方案安全管理 bdp-security not ready
 # https://github.com/wlhbdp/bdp-security
 
 8.1 安全专家服务
@@ -482,7 +478,7 @@
 8.9 安全监测
 
 
-# 9、客户数据中台 bdp-cdp
+# 9、大数据生态解决方案客户数据中台 bdp-cdp ready
 # https://github.com/wlhbdp/bdp-cdp
  
     全面融合线下线上数据的客户数据中台
@@ -532,7 +528,9 @@
     人群管理
     
     
-# 10 业务中台 bdp-businesshub
+    
+
+# 10 大数据生态解决方案业务中台 bdp-businesshub
 # https://github.com/wlhbdp/bdp-businesshub
 
     核心优势
@@ -583,5 +581,8 @@
     √ 以数据为依托，辅助企业智能决策。
     
     √ 协助企业快速响应并融入创新市场。
+    
+    
+
     
 
