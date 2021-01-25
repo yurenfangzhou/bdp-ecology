@@ -21,3 +21,21 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+.idea/*
+/.idea/
+.gradle
+.gitlab-ci.yml
+/target
+target
+node_modules
+*.iml
+/target
+.idea
+/*/target
+/**/target
+/*/node_modules
+/**/node_modules
+/**/*.iml
+.mvn
+/**/.mvn
+/.gitignore
